@@ -1,0 +1,4 @@
+.DS_Store
+main.cpp
+*.out
+.ccls-cache/
